@@ -1,0 +1,72 @@
+
+missile.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+q1
+  rotate: false
+  xy: 1, 1
+  size: 698, 720
+  orig: 698, 720
+  offset: 0, 0
+  index: -1
+
+missile2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+q2
+  rotate: false
+  xy: 1, 1
+  size: 698, 720
+  orig: 698, 720
+  offset: 0, 0
+  index: -1
+
+missile3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+q3
+  rotate: false
+  xy: 1, 1
+  size: 698, 720
+  orig: 698, 720
+  offset: 0, 0
+  index: -1
+
+missile4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+q4
+  rotate: false
+  xy: 1, 1
+  size: 698, 720
+  orig: 698, 720
+  offset: 0, 0
+  index: -1
+
+missile5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+q5
+  rotate: false
+  xy: 1, 1
+  size: 698, 720
+  orig: 698, 720
+  offset: 0, 0
+  index: -1
+
+missile6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+q6
+  rotate: false
+  xy: 1, 1
+  size: 698, 720
+  orig: 698, 720
+  offset: 0, 0
+  index: -1

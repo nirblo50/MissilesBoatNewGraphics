@@ -1,0 +1,68 @@
+
+boatPic.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 589
+  size: 500, 145
+  orig: 500, 145
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 442
+  size: 500, 145
+  orig: 500, 145
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 503, 589
+  size: 500, 145
+  orig: 500, 145
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1, 295
+  size: 500, 145
+  orig: 500, 145
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 503, 442
+  size: 500, 145
+  orig: 500, 145
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1, 148
+  size: 500, 145
+  orig: 500, 145
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 503, 295
+  size: 500, 145
+  orig: 500, 145
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1, 1
+  size: 500, 145
+  orig: 500, 145
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 503, 148
+  size: 500, 145
+  orig: 500, 145
+  offset: 0, 0
+  index: -1

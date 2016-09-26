@@ -1,0 +1,78 @@
+
+rightDrive.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+r1
+  rotate: false
+  xy: 1, 378
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+r2
+  rotate: false
+  xy: 1, 1
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+r3
+  rotate: false
+  xy: 503, 378
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+r4
+  rotate: false
+  xy: 503, 1
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+
+rightDrive2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+r5
+  rotate: false
+  xy: 1, 378
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+r6
+  rotate: false
+  xy: 1, 1
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+r7
+  rotate: false
+  xy: 503, 378
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+r8
+  rotate: false
+  xy: 503, 1
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+
+rightDrive3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+r9
+  rotate: false
+  xy: 1, 1
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
